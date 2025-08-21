@@ -3,4 +3,4 @@ project(data_structures C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(data_structures main.c)
+add_subdirectory(hash-table/v1)
