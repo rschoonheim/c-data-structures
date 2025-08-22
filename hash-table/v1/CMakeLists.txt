@@ -6,11 +6,11 @@ add_library(
 )
 
 add_executable(
-        hash_table
+        hash_table_v1
         main.c
 )
 
 target_link_libraries(
-        hash_table
+        hash_table_v1
         hash_table_lib
 )

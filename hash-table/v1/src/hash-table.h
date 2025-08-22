@@ -1,6 +1,5 @@
 #ifndef DATA_STRUCTURES_HASH_TABLE_H
 #define DATA_STRUCTURES_HASH_TABLE_H
-#include <stddef.h>
 
 typedef struct hash_table_bucket hash_table_bucket_t;
 typedef struct hash_table hash_table_t;
